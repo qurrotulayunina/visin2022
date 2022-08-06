@@ -1,0 +1,172 @@
+[
+
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Mas",
+        "jenis_budidaya": "Tawar",
+        "produksi": 795112
+    },
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Nila",
+        "jenis_budidaya": "Tawar",
+        "produksi": 455865
+    },
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Gurame",
+        "jenis_budidaya": "Tawar",
+        "produksi": 227728
+    },
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Lele",
+        "jenis_budidaya": "Tawar",
+        "produksi": 236617
+    },
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Kerapu Macan",
+        "jenis_budidaya": "Laut",
+        "produksi": 154128
+    },
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Kerapu Hybrid",
+        "jenis_budidaya": "Laut",
+        "produksi": 34500
+    },
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Kakap Putih",
+        "jenis_budidaya": "Laut",
+        "produksi": 183912
+    },
+    {
+        "tahun": 2019,
+        "jenis_ikan": "Bawal Bintang",
+        "jenis_budidaya": "Laut",
+        "produksi": 8400
+    },
+    {
+    
+        "tahun": 2019,
+        "jenis_ikan": "Patin",
+        "jenis_budidaya": "Tawar",
+        "produksi": 0
+    
+    },
+    {
+    
+        "tahun": 2019,
+        "jenis_ikan": "Udang Windu",
+        "jenis_budidaya": "Laut",
+        "produksi": 0
+    
+    },
+    {
+    
+        "tahun": 2019,
+        "jenis_ikan": "Udang Vaname",
+        "jenis_budidaya": "Payau",
+        "produksi": 0
+    
+    },
+    {
+    
+        "tahun": 2019,
+        "jenis_ikan": "Ikan Lainnya",
+        "jenis_budidaya": "Laut",
+        "produksi": 0
+    
+    },
+    {
+
+        "tahun": 2018,
+        "jenis_ikan": "Mas",
+        "jenis_budidaya": "Tawar",
+        "produksi": 952885
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Nila",
+        "jenis_budidaya": "Tawar",
+        "produksi": 587397
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Gurame",
+        "jenis_budidaya": "Tawar",
+        "produksi": 319016
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Patin",
+        "jenis_budidaya": "Tawar",
+        "produksi": 225862
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Lele",
+        "jenis_budidaya": "Tawar",
+        "produksi": 237987
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Kerapu Macan",
+        "jenis_budidaya": "Laut",
+        "produksi": 16276
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Kerapu Hybrid",
+        "jenis_budidaya": "Laut",
+        "produksi": 24744
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Kakap Putih",
+        "jenis_budidaya": "Laut",
+        "produksi": 88085
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Udang Windu",
+        "jenis_budidaya": "Laut",
+        "produksi": 454100
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Udang Vaname",
+        "jenis_budidaya": "Payau",
+        "produksi": 156789
+    
+    },
+    {
+    
+        "tahun": 2018,
+        "jenis_ikan": "Ikan Lainnya",
+        "jenis_budidaya": "Laut",
+        "produksi": 260000
+    
+    }
+
+]
