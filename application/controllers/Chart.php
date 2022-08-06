@@ -34,52 +34,6 @@ class Chart extends CI_Controller {
         $this->load->view('grafik', $data);
 	}
 
-    function people()
-    {
-        //people data
-        $source=file_get_contents('assets/people.json');
-        $source=json_decode( preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $source), true );  
-        $result=array();
-        foreach($source as $row)
-        {
-            if(!isset($result[$row['gender']]))
-            {
-                $result[$row['gender']]=array($row['age']);
-            }else{
-                array_push($result[$row['gender']], $row['age']);
-            }
-        }
-        $keys=array_keys($result);
-        $people=array();
-        foreach ($keys as $row)
-        {
-            $people[]=[$row, count($result[$row])];
-        }
-        $data['PieChartData']=json_encode($people);
-        $data['PieChartTitle']='Data Orang';
-
-        //line chart
-        $line=[array('NAMA', 'UMUR')];
-        foreach($source as $row)
-        {
-            $dat=array($row['firstName'], (double)$row['age']);
-            array_push($line, $dat);
-        }
-        $data['LineChartData']=json_encode($line);
-        $data['LineChartTitle']='Umur';
-
-        //bar chart
-        // $bar=[array('TAHUN', 'JUMLAH')];
-        // foreach($source as $row)
-        // {
-        //     $year=date('Y', strortime($row['birth']));
-        //     $month=dtae('n', strtime($row['birth']));
-        //     if($year)
-        // }
-        $this->load->view('grafik', $data);
-        // echo json_encode(array_keys($result));
-    }
-
     function ikan()
     {
         //people data
